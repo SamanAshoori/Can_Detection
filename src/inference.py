@@ -4,7 +4,7 @@ import time
 import os
 
 #config
-MODEL_PATH = os.path.join('..', 'models', 'purdeys_v1.pt') # Point to your trained .pt file
+MODEL_PATH = os.path.join( 'models', 'purdeys_v1.pt') # Point to your trained .pt file
 OUTPUT_FILENAME = 'purdeys_detection_demo.mp4'
 CONFIDENCE_THRESHOLD = 0.5  # Ignore detections below 50% confidence
 
