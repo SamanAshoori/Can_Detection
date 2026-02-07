@@ -36,7 +36,7 @@ def move_files(files, split):
 
 def main():
     setup_dirs()
-    images = [f for f in os.listdir(RAW_DATA_DIR) if f.endswith(('.jpg', '.jpeg', '.png'))]
+    images = [f for f in os.listdir(RAW_DATA_DIR) if f.endswith(('.jpg', '.jpeg'))]
     random.shuffle(images)
     
     # 80/20 Split
