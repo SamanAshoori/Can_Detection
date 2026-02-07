@@ -4,7 +4,7 @@
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-purple)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green)
 
-A complete end-to-end Computer Vision pipeline built in **under 6 hours**. 
+A complete end-to-end Computer Vision project.
 This project demonstrates how to fine-tune a state-of-the-art YOLOv8 Nano model to detect a highly reflective, custom object (Purdey's Apple & Grape can) using a micro-dataset collected via webcam.
 
 ## Goals
@@ -32,7 +32,7 @@ purdeys-detector/
 
 1.  **Clone the repo:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/purdeys-detector.git](https://github.com/YOUR_USERNAME/purdeys-detector.git)
+    git clone [https://github.com/SamanAshoori/purdeys-detector.git](https://github.com/SamanAshoori/purdeys-detector.git)
     cd purdeys-detector
     ```
 
