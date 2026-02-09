@@ -1,6 +1,5 @@
 import cv2
 import os
-import time
 
 #config
 SAVE_PATH = os.path.join("..","data","raw")
